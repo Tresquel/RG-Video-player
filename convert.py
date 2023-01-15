@@ -1,11 +1,6 @@
 from PIL import Image
 import json
 
-
-def rgb_to_hex(rgb):
-    return  rgb
-
-
 info = {
     "frames": 8,
     "fps": 30,
